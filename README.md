@@ -1,30 +1,27 @@
-Agency Jekyll theme
-====================
+# Agency theme
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+## How to use
 
-# How to use
-
-###Portfolio 
+### Portfolio 
 
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+### About
 
 Images are in '/img/about/'
 
-###Team
+### Team
 
 Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
 
-# Demo
+## Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View this jekyll theme in action [here](https://aptanadev.github.io/agency-theme)
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
