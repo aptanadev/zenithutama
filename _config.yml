@@ -3,56 +3,31 @@ baseurl: ""
 
 # Site settings
 title: PT ZENITH UTAMA MANDIRI
-email: support@mydomain.com
+email: anggrisanggra@zenith.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Team names, titles and social links
 people:
-  - name: Kay Garland
+  - name: Setyo Lilik
     pic: 1
-    position: Lead Designer
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: stack-overflow
-        url: #
+    position: Owner
 
-  - name: Larry Parker
+  - name: Probo
     pic: 2
-    position: Lead Marketer
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: linkedin
-        url: #
+    position: Managar
 
-  - name: Diana Petersen
+  - name: Rini Marliani
     pic: 3
-    position: Lead Developer
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+    position: Head Admin
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/paciejs/
+  - title: instagram
+    url: https://www.instagram.com/zenithtama_01/
+  - title: youtube
+    url: https://youtube.com/@anggrisanggra3628?si=jYhQdQqlNKah9B3K
 
 # Postal address (add as many lines as necessary)
 address:
